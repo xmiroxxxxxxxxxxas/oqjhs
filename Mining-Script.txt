@@ -8,3 +8,6 @@ bash miner-avian-minotaurx.sh
 52.141.49.52
 20.243.168.215
 4.233.136.201
+
+
+RSbch2Y5oqZ8uBz3TXwNfvktyvJCjxcKFh
