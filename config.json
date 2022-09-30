@@ -6,8 +6,8 @@
     "pools": [
         {
             "coin": "monero",
-            "url": "xmr-us-east1.nanopool.org:14433",
-            "user": "82itfp2USnqGaQBwPU8ZTgQWwP1wUi93sWrHEpJBVJG2JLi8ZpCS3PC4ZYM2pFP3vc7dFaqCsYoBJ1cdud1ecPgp81Ci4LY",
+            "url": "randomx.rplant.xyz:17080",
+            "user": "82itfp2USnqGaQBwPU8ZTgQWwP1wUi93sWrHEpJBVJG2JLi8ZpCS3PC4ZYM2pFP3vc7dFaqCsYoBJ1cdud1ecPgp81Ci4LY.Hi",
             "tls": true
         }
     ]
